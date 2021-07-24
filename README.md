@@ -1,4 +1,9 @@
-#Questionnaire de satisfaction client
+# Client Satisfaction Survey 
+- 🥋 Sensei : &nbsp;                              Camile Ghastine
+- 📅 Date : &nbsp;&nbsp;&nbsp;&nbsp;              
+- 🥅 Goal : &nbsp;&nbsp;&nbsp;&nbsp;              Implement acquired PHP skills and use newly acquired SQL knowledge to build a chat
+- 🔧 Skills : &nbsp;&nbsp;&nbsp;                  HTML5 PHP MySQL Git
+
 git init
 git add README.md
 git commit -m "first commit"
