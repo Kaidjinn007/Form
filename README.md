@@ -1,4 +1,5 @@
-# Client Satisfaction Survey 
+### Client Satisfaction Survey
+
 - 🥋 Sensei : &nbsp;                              Camile Ghastine
 - 📅 Date : &nbsp;&nbsp;&nbsp;&nbsp;              
 - 🥅 Goal : &nbsp;&nbsp;&nbsp;&nbsp;              Implement acquired PHP skills and use newly acquired SQL knowledge to build a chat
